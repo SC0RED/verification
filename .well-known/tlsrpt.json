@@ -1,0 +1,8 @@
+{
+  "version": "TLSRPTv1",
+  "reporting": {
+    "email": [
+      "tlsrpt@sc0red.com"
+    ]
+  }
+}
