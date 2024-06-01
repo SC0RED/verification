@@ -5,5 +5,5 @@ This repository is used to host domain verification files like mta-sts and tls-r
 
 ## MTA-STS and TLS-RPT Policies
 
-- [MTA-STS Policy](https://verification.sc0red.com/.well-known/mta-sts.txt)
-- [TLS-RPT Policy](https://verification.sc0red.com/.well-known/tlsrpt.json)
+- [MTA-STS Policy](https://mta-sts.sc0red.com/.well-known/mta-sts.txt)
+- [TLS-RPT Policy](https://mta-sts.sc0red.com/.well-known/tlsrpt.json)
